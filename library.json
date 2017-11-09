@@ -1,7 +1,7 @@
 {
   "name": "HomeEasy",
   "description": "Le système domotique Home Easy pour Arduino",
-  "keywords": "HomeEasy,RF433",
+  "keywords": "HomeEasy,RF433,rf, radio, wireless",
   "authors": {
     "name": "Fork Christophe Caron",
     "url": "https://github.com/christophe94700/homeeasy"
