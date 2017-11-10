@@ -1,20 +1,20 @@
 {
-  "name": "HomeEasy",
-  "description": "Le système domotique Home Easy pour Arduino",
-  "keywords": "HomeEasy,RF433,rf, radio, wireless",
-  "authors": {
-    "name": "Fork Christophe Caron",
-    "url": "https://github.com/christophe94700/homeeasy"
-  },
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/christophe94700/homeeasy/archive/master.zip",
-  "export": {
-    "include": "HomeEasy"
-  },
-  "frameworks": "arduino",
-  "platforms": "*",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/christophe94700/homeeasy.git"
-  },
+	"name": "HomeEasy",
+	"description": "Le système domotique Home Easy pour Arduino",
+	"keywords": "HomeEasy,RF433,rf, radio, wireless",
+	"authors": {
+		"name": "Fork Christophe Caron",
+		"url": "https://github.com/christophe94700/homeeasy"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/christophe94700/homeeasy.git"
+	},
+	"downloadUrl": "https://github.com/christophe94700/homeeasy/archive/master.zip",
+	"export": {
+		"include": "HomeEasy"
+	},
+	"version": "1.0.0",
+	"frameworks": "arduino",
+	"platforms": "*"
 }
